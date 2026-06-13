@@ -1,0 +1,25 @@
+Ethereum (ETH) is the second largest cryptocurrency by market cap.
+It introduced smart contracts, enabling decentralized applications (dApps).
+Ethereum moved from Proof of Work to Proof of Stake in September 2022 (The Merge).
+This reduced Ethereum's energy consumption by approximately 99.95%.
+Ethereum's native token ETH is used to pay for gas fees on the network.
+
+Bitcoin (BTC) is the first and largest cryptocurrency by market cap.
+It was created by Satoshi Nakamoto in 2009.
+Bitcoin has a fixed supply cap of 21 million coins.
+Bitcoin halving events occur every 4 years, reducing miner rewards by half.
+The most recent halving was in April 2024, reducing block reward to 3.125 BTC.
+
+Funding rate is a periodic payment between long and short traders in perpetual futures.
+Positive funding rate means longs pay shorts — market is bullish/overleveraged long.
+Negative funding rate means shorts pay longs — market is bearish/overleveraged short.
+Extreme funding rates (above 0.1% or below -0.1%) often precede price reversals.
+
+Open interest is the total value of outstanding futures contracts.
+Rising open interest with rising price confirms bullish trend.
+Rising open interest with falling price confirms bearish trend.
+Falling open interest suggests traders are closing positions.
+
+Fear and Greed Index measures market sentiment from 0 (extreme fear) to 100 (extreme greed).
+Values above 75 suggest the market may be overheated.
+Values below 25 suggest potential buying opportunities.
